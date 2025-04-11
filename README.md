@@ -7,7 +7,7 @@ This project visualizes insights from a developer survey dataset (`Stack_Overflo
 ## Dataset
 
 **Dataset Name:** `Stack_Overflow_Developer_Survey.csv`  
-**Source:** Originally derived from a developer technology survey (structure resembles the [Stack Overflow Developer Survey](https://survey.stackoverflow.co/) which os 2024 edition. 
+**Source:** Originally derived from a developer technology survey (structure resembles the [Stack Overflow Developer Survey](https://survey.stackoverflow.co/) which is 2024 edition. 
 **Columns Include:**
 - `LanguageHaveWorkedWith`, `LanguageWantToWorkWith`
 - `DatabaseHaveWorkedWith`, `DatabaseWantToWorkWith`
