@@ -67,11 +67,12 @@ Analyzes developer backgrounds:
 
 
 - **Future Tech Trends**
-![Screenshot 2025-04-07 191254](https://github.com/user-attachments/assets/e4cf5786-0f78-4019-911c-9f36075869f3)
+![Screenshot 2025-04-07 191314](https://github.com/user-attachments/assets/616efaac-0dfd-4c9f-8b8f-72d0bc58b016)
 
 
 - **Demographics Overview**
 ![Screenshot 2025-04-07 191331](https://github.com/user-attachments/assets/22d98877-7981-477f-aee7-61e94d231844)
+
 
 
 
